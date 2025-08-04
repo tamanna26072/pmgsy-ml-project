@@ -37,6 +37,7 @@ To intelligently classify road and bridge projects using ML techniques to suppor
 .
 ├── PMGSY_DATASET.csv           # Input dataset
 ├── pmgsy_ml_classification.py  # Main ML script
+├── requirements.txt            # dependencies
 ├── README.md                   # Project overview
 ```
 
